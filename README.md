@@ -5,6 +5,7 @@
 - ⛓ I share my learning in public on [twitter](https://twitter.com/atulsubedi15). Let's be friends.
 
 ![dancing gopher](https://raw.githubusercontent.com/bashbunni/bashbunni/main/dancing-gopher.gif)
+<img src="https://cdnb.artstation.com/p/assets/images/images/042/806/685/original/terrified-of-ice-cream-ferrisrust-frame.gif?1635480129" width="200" height="150">
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulsubedi&layout=compact)]()
