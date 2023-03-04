@@ -1,10 +1,14 @@
-![](https://pbs.twimg.com/profile_banners/1554412755738071047/1667469715/600x200)
+![](./heading-min.png)
 
 - ✋ Hi I am Atulya subedi.
 - 📖 I am learning web development. 
-- ⛓ I share my learning in public on [twitter](https://twitter.com/atulsubedi15). Let's be friends.
+- ⛓ I share my learning in public on [twitter](https://twitter.com/atulsubedi15). Let's be friends 👋🏼.
+- 🤜 I am on LinkedIn too [linkedin](https://np.linkedin.com/in/atulsubedi15).
 
 ![dancing gopher](https://raw.githubusercontent.com/bashbunni/bashbunni/main/dancing-gopher.gif)
+
+> Here's is a dancing gopher gif from my favourite programming language, Go.
+
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulsubedi&layout=compact)]()
