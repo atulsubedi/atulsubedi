@@ -1,4 +1,4 @@
-![](./heading-min.png)
+<!-- ![](./heading-min.png) -->
 
 - ✋ Hi I am Atulya subedi.
 - 📖 I am learning web development. 
