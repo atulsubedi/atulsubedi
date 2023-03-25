@@ -6,6 +6,7 @@
 - 🤜 I am on LinkedIn too [linkedin](https://np.linkedin.com/in/atulsubedi15).
 
 ![dancing gopher](https://raw.githubusercontent.com/bashbunni/bashbunni/main/dancing-gopher.gif)
+![block](https://andrewmayneblog.files.wordpress.com/2023/03/rotating_cube_small_black_bg.gif?w=200)
 
 > Here's is a dancing gopher gif from my favourite programming language, Go.
 
