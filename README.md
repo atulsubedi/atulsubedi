@@ -1,7 +1,7 @@
 <!-- ![](./heading-min.png) -->
 
 - ✋ Hi I am Atulya subedi.
-- 📖 I am learning web development. 
+- 📖 I am learning backend development. 
 - ⛓ I share my learning in public on [twitter](https://twitter.com/atulsubedi15). Let's be friends 👋🏼.
 - 🤜 I am on LinkedIn too [linkedin](https://np.linkedin.com/in/atulsubedi15).
 
